@@ -1,6 +1,10 @@
 
 ##  Basic Version of PayTM
 
-   Tech Stack:Node,Express,MongoDB
+   Tech Stack
+   
+   Backend:Node,Express
+   
+   Database:MongoDB
    
    Validation:Zod
