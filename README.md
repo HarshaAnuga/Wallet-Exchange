@@ -1,7 +1,7 @@
 
 ##  Basic Version of PayTM
 
-#   Tech Stack
+### Tech Stack
    
    Backend:Node,Express
    
